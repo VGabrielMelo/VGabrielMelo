@@ -1,7 +1,7 @@
 # Victor Gabriel Andrade de Melo
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=VGabrielMelo&theme=tokyonight&show_icons=true&count_private=true" alt="stats" height="145">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielMelo&layout=compact&theme=tokyonight" alt="langs" height="145">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielMelo&layout=compact&theme=tokyonight&langs_count=8" alt="langs" height="145">
 </p>
 
 ## Hello everone!
