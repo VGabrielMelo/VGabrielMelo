@@ -4,11 +4,11 @@
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabrielMelo&layout=compact&theme=tokyonight&langs_count=100" height="155">
 </p>
 
-## Hello everone!
-I have a degree in Laboratory Analysis from the Federal Institute - Sul de Minas and I am currently studying Systems Analysis and Development at FATEC - SJC Jessen Vidal
- <br/>  Today I am allocated in the Data Science area, and in the future I really want to practice Devops. My job is to find answers or a solution to the company's problems, prediction models, classification and regression models and even optimization models, whether specific or global.
+## Hello everone! :laughing:
+I have a degree in Laboratory Analysis from the Federal Institute - Sul de Minas and I am currently studying Systems Analysis and Development at FATEC - SJC Jessen Vidal :books:
+ <br/>  Today I am allocated in the Data Science area :bar_chart: :chart_with_upwards_trend:, and in the future I really want to practice Devops. My job is to find answers or a solution to the company's problems :pushpin:, prediction models, classification and regression models and even optimization models, whether specific or global.
  
- <b>About me:</b> I'm 19 years old, I love playing games on my computer, I like Animes, my favorite animal are birds and I live in Brazil!
+ <b>About me:</b> I'm 19 years old, I love playing games on my computer, I like Animes, my favorite animal are birds and I live in Brazil! &#128516;
  <br>
 ## I have these technologies in my professional baggage:
 <p align="center">
