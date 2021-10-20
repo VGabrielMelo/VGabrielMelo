@@ -39,7 +39,7 @@ I have a degree in Laboratory Analysis from the Federal Institute - Sul de Minas
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicholas.sroque@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/victor-gmelo/"> target="_blank"
+    <a href="https://www.linkedin.com/in/victor-gmelo/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/nicholas-gabriel-dos-santos-roque-9113511b2">
     </a>
 </p>
